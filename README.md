@@ -1,4 +1,7 @@
 # 🛍️ ShopAI
+## 🖥️ Interface
+
+![Interface do ShopAI](assets/shopai-interface.png)
 
 Assistente virtual para uma loja online desenvolvido como projeto de estudo
 utilizando Python, Streamlit e integração com a OpenAI API.
